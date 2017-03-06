@@ -1,5 +1,5 @@
 {
-    "name": "swiftmailer/swiftmailer",
+    "name": "michalpicpauer/gpx-parser",
     "type": "package",
     "description": "Lib loads and parse the track data that should be defined in a gpx file",
     "keywords": ["gps","gpx","parser","collection"],
