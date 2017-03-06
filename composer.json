@@ -1,0 +1,27 @@
+{
+    "name": "swiftmailer/swiftmailer",
+    "type": "package",
+    "description": "Lib loads and parse the track data that should be defined in a gpx file",
+    "keywords": ["gps","gpx","parser","collection"],
+    "authors": [
+        {
+            "name": "Michal Picpauer",
+            "email": "michalpicpauer@gmail.com"
+        }
+    ],
+    "package": {
+        "name": "weaverryan/derp-dangerzone",
+        "version": "dev-master",
+        "source": {
+            "url": "https://github.com/michalpicpauer/gpx-loader.git",
+            "type": "git",
+            "reference": "master"
+        },
+        "autoload": {
+            "psr-0" : {
+                "MichalPicpauer\\GPXLoader" : "src"
+            }
+        }
+    }
+
+}
