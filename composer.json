@@ -4,6 +4,7 @@
     "description": "Lib loads and parse the track data that should be defined in a gpx file",
     "keywords": ["gps","gpx","parser","collection"],
     "version": "dev-master",
+    "license": "MIT",
     "authors": [
         {
             "name": "Michal Picpauer",
