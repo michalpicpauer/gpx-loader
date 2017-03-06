@@ -5,6 +5,7 @@
     "keywords": ["gps","gpx","parser","collection"],
     "version": "dev-master",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Michal Picpauer",
